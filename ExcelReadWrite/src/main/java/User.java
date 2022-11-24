@@ -7,6 +7,7 @@ public class User {
         SbiClass sbi = new SbiClass();
         sbi.rateOfInterest();
         sbi.simpleInterst();
+        ReadWriteBankDetails.readWriteExcel();
 
     }
 }

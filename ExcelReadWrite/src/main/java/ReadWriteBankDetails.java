@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class ReadWriteBankDetails {
-    public static void main(String[] args) throws IOException {
+    public static void readWriteExcel() throws IOException {
 
         // TODO Auto-generated method stub
 
